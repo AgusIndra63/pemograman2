@@ -1,2 +1,0 @@
-nilaimhs.NilaiMhs
-Mahasiswa.Mahasiswa
